@@ -10,7 +10,7 @@ NVIDIA DGX Spark Hackathon 项目展示 <br> Spark Folks 小组 <br>
 
 <font color="red">出于成果隐私保护，该项目的代码暂时不开源，并且当前成果仍处于轻量化的概念验证阶段（PoC），但会在未来完善后以 RIOS Lab 开源专利平台的形式开放给公众使用和二次开发。</font>
 
-- **技术报告**：
+- **技术报告**：[Spark Patents 技术报告](./SparkPatents技术报告.pdf)
 - **成果演示**：[Spark Patents 对话演示](https://www.bilibili.com/video/BV1riDsBaECQ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=0ce0693e07698024c63cd3ac1a68ff7b)
 
 ## 核心优势
@@ -27,5 +27,8 @@ NVIDIA DGX Spark Hackathon 项目展示 <br> Spark Folks 小组 <br>
 
 ## 代码片段展示
 
-- 模型部署：[models-deployment](models-deployment/README.md)
-- 专利 AI 服务：[patent-services](patent-services/README.md)
+尽管代码不开源，我们愿意提供一些代码片段和相关截图；如果赛办方需要进一步了解代码细节，可以直接联系我们。
+
+- 模型部署模块：[models-deployment](models-deployment/README.md)
+- 专利 AI 服务模块：[patent-services](patent-services/README.md)
+- 数据库管理模块：
