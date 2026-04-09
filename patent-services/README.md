@@ -1,9 +1,11 @@
 # 专利 AI 服务 (Patents AI Services)
 代码片段/日志截取
 
-## AI 服务框架一览（部分）
+## 专利 AI 服务核心函数
 
-![services](./assets/services.png)
+主要涉及专利语义分析和技术深度分析（不涉及智能问数）。
+
+![services](./assets/core_service_funcs.png)
 
 ## 双专利库的接入
 
