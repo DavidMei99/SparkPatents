@@ -31,4 +31,4 @@ NVIDIA DGX Spark Hackathon 项目展示 <br> Spark Folks 小组 <br>
 
 - 模型部署模块：[models-deployment](models-deployment/README.md)
 - 专利 AI 服务模块：[patent-services](patent-services/README.md)
-- 数据库管理模块：
+- 数据库管理模块：[patent-database](patent-database/README.md)
